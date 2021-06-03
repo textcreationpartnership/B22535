@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands warning, or, Englands sorrow for Londons misery containing, a small catalogue of England's and London's sins, which might well cause dreadful judgements to follow : together, with some notable examples of other eminent judgments, and some brief exhortations to a speedy repentance, and turning to the Lord, least he utterly destroy us ...</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22535</idno><idno type="EEBO-CITATION">18424532</idno>
+  <idno type="VID">154412</idno>
+  <idno type="EEBO-PROQUEST">2248554272</idno>
+  
+            <idno type="STC">Wing E3071</idno>
+            <idno type="STC">ESTC R39504</idno>
+            <idno type="OCLC">18424532</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22535)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154412)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands warning, or, Englands sorrow for Londons misery containing, a small catalogue of England's and London's sins, which might well cause dreadful judgements to follow : together, with some notable examples of other eminent judgments, and some brief exhortations to a speedy repentance, and turning to the Lord, least he utterly destroy us ...</title>
+               </titleStmt>
+               <extent>13, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passenger, and W. Whitwood ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Guildhall, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sin.</term>
+               <term type="topical_term">Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154412:1"/>
+            <p>
+               <hi>ENGLANDS WARNING OR, ENGLANDS SORROW FOR Londons Misery.</hi>
+            </p>
+            <p>
+               <hi>Containing, a small Catalogue of</hi> England's <hi>and</hi> London's <hi>Sins, which might well cause dreadful Judgements to follow.</hi>
+            </p>
+            <p>
+               <hi>Together, with some notable Ex<g ref="char:EOLhyphen"/>amples of other eminent Judgments; And some brief exhortations to a spee<g ref="char:EOLhyphen"/>dy Repentance, and turning to the Lord, least he uttetly destroy us, and leave us D<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Joel</hi> 2. 12,</bibl>
+               <p>Therefore all now, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith the Lord, turn yee even to me, with all your heart, and with Fasting, and with weeping, and with mourning.</p>
+               <bibl>
+                  <hi>V.</hi> 13.</bibl>
+               <p>And rent your hearts, and not your garments, and turn unto the Lord your God: for hee is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.</p>
+               <bibl>
+                  <hi>V.</hi> 14.</bibl>
+               <p>Who knoweth, if he will return and repent, and leave a blessing behinde him, even a meat-offering, and a drink offering unto the Lord your God.</p>
+            </q>
+            <p>LONDON, <hi>Printed for</hi> T. Passenger, <hi>and</hi> W. Whitwood, <hi>and are to be sold at their Shops on</hi> London-Bridge; <hi>and in</hi> Duck-Lane. 1667.</p>
+            <pb facs="tcp:154412:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:154412:2"/>
+            <head>
+               <hi>Englands VVarning; OR, <hi>Englands</hi> Sorrow, for <hi>Lon<g ref="char:EOLhyphen"/>dons</hi> Misery.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>Jer.</hi> 22. 8.</bibl>
+               <q>And many Nations shall passe by this City, and they shall say, every man to his Neighbor, wherefore hath the Lord done thus unto this great City?</q>
+            </epigraph>
+            <p>THe great God who lives and Reigns for ever, whose power is infinite, and Kingdome without end, he hath set bounds and terms of Being to all things and places in the world; 'Tis hée that can kill or make alive, save or destroy, and who dare say, what doest thou? Eminent exam<g ref="char:EOLhyphen"/>ples of his terrible Iudgements hath the Lord left upon Record, as a warning to his people that they may escape the snare, and
+<pb n="4" facs="tcp:154412:3"/> avoid the punishment that is due to sinners. Our God is a consuming fire, and if his Wrath be kindled but a little, who is able to abide it?</p>
+            <p>A sad Example of Gods Iustice, is now before our eyes; The Lord hath made of a Defenced City, a heap, and well may wée now say, our Crown is fallen from our heads; But let us a little enquire into the words before read <hi>(and many Nations shall passe by this City;)</hi> Hath it not béen a re<g ref="char:EOLhyphen"/>ceptacle for strangers, and the wonder of o<g ref="char:EOLhyphen"/>ther Nations, what place in the world bet<g ref="char:EOLhyphen"/>ter scituated, more populous, and more ad<g ref="char:EOLhyphen"/>vantagious for Trades, and have not the flower of other Nations passed by this Ci<g ref="char:EOLhyphen"/>ty? yea, lived in it; but now must every man <hi>say to his Neighbor, wherefore hath the Lord done thus to this great City?</hi> And now my dear Friends, let us seriously en<g ref="char:EOLhyphen"/>quire into the Reasons, wherefore the Lord hath dealt so severely with this great City? There is reason enough, if every man would but look at home, to his own heart, But Oh those great, crying, and God provoking sins! which hath caused the Lord to turn his face against us, and to cast off this City; I shall name but a few of the greatest; As</p>
+            <p n="1">
+               <pb n="5" facs="tcp:154412:3"/> 1 <hi>Blaspheming,</hi> and <hi>Cursing</hi> the holy Name of the great Iehovah, taking his ho<g ref="char:EOLhyphen"/>ly Name in derision into their ungodly mouths, swallowing down oaths and blas<g ref="char:EOLhyphen"/>phemies, as they do their provisions, and daily bread, as in <hi>Rev.</hi> 13. 5, 6. <hi>and there was given to him a mouth, speaking great things and blasphemies, and he open<g ref="char:EOLhyphen"/>ed his mouth to blaspheme against God, to blaspheme his Name, and his Taber<g ref="char:EOLhyphen"/>nacle, and them that dwell in Heaven;</hi> This power was given to the Beast, and Oh! how many impious wretches take this power to themselves, to blaspheme the Name of God, to speak evil of the Holy of Holies? such as those the Apostle <hi>Paul</hi> de<g ref="char:EOLhyphen"/>livered over to the Devil; Oh Friends ho<g ref="char:EOLhyphen"/>ly and reverend is his Name, be serious at the very thoughts of it, and take heed that the Name of God, nor the word of God be not blasphemed; it might make ones heart to ake to hear those Dreadful blasphemies and Curses in our stréets, as if there were no God to hear or avenge; but our God is a God of Iudgement, blessed are all they that trust in him; This wee may reckon amongst the number of the great sins that hath brought down this great Indge<g ref="char:EOLhyphen"/>ment,
+<pb n="6" facs="tcp:154412:4"/> and made our City a <hi>Sodom,</hi> and of a place flowing with milk and honey, to be a barren Desart.</p>
+            <p n="2">2. <hi>Drunkenness</hi> is a crying and provok<g ref="char:EOLhyphen"/>ing Sin, <hi>Wo to the Drunkards of Ephra<g ref="char:EOLhyphen"/>im,</hi> so woe to the Drunkards of <hi>England,</hi> yea, of <hi>London;</hi> you have drawn down judg<g ref="char:EOLhyphen"/>ments, you who have added Drunkenness to Thirst, now the Lord hath given you a Cup of Wrath to drink; well then, let me say with the Prophet <hi>Joel, Awake yee Drunkards, and weep, and houl, all yee drinkers of Wine, because of the new Wine, for it's cut off from your mouths. Joel</hi> 1. 5. Oh! how many have wallowed in this beastly sin? have made a God of their bel<g ref="char:EOLhyphen"/>lies, and have gloried in their shame?</p>
+            <p>The hearts of men have béen over charg<g ref="char:EOLhyphen"/>ed with surfeiting and drunkenness, and now, how many hath God taken in their Cups, and made their Habitations Deso<g ref="char:EOLhyphen"/>late, yea, to become a ruinous heap; those who have gloried in that beastly sin, and have caused others to abuse themselves also, may now sit down in sorrow, having not e<g ref="char:EOLhyphen"/>nough to satisfie according to reason; the dreadful curse that was pronounced against <hi>Jerusalem,</hi> the same is fulfilled in us, that
+<pb n="7" facs="tcp:154412:4"/> he would fill the Inhabitants of the Land with Drunkenness, this may be reckoned among the Catalogue of the God provoking sins, why God should deal so severely with us, and cause his anger to smoak against us.</p>
+            <p n="3">3. <hi>Whoredome</hi> is another crying and provoking sin; as the Lord spake of <hi>Jerusa<g ref="char:EOLhyphen"/>lem,</hi> so justly may it be spoke of <hi>London,</hi> and of <hi>England, I have seen thy Adulte<g ref="char:EOLhyphen"/>ries, and thy Neighings, and the lewdness of thy whoredomes, and thine abominations, on the hills, and in the fields; woe to thee, oh Jerusalem! wilt thou not bee made clean, when shall it once be?</hi> Woe to thée, oh <hi>England, England,</hi> wilt thou not stick to defile thy self? the Lord would cleanse thée but thou wilt not bée cleansed: but now <hi>Whoremongers and Adulterers, God will judge, his spirit shall not alwaies strive with man, for he also is dust.</hi>
+            </p>
+            <p>And oh you provokers of God! those late dreadful Flames are nothing to the Flames of hell, to the torments of the damned; these touched but your Substance, but the other shall touch your Souls, and make you roar under the extremity of your pains for ever.</p>
+            <p>Oh <hi>England!</hi> put away thy Whore<g ref="char:EOLhyphen"/>domes,
+<pb n="8" facs="tcp:154412:5"/>
+               <hi>Jerusalem played the Whore, and would not be satisfied:</hi> As in <hi>Ezek,</hi> 16. 28. and in the 25. <hi>v. Thou hast built thy high place at every head of the way, and hast made thy beauty to be abhorred, and hast opened thy feet to the multitude that pas<g ref="char:EOLhyphen"/>sed by, and hast multiplyed thy whore<g ref="char:EOLhyphen"/>domes,</hi> and what was the end of all? It provoked God to anger; oh therefore, let not whoredomes take away thy heart, for no such shall Inherit the Kingdome of God.</p>
+            <p n="4">4 <hi>Provoking sin,</hi> which greatly height<g ref="char:EOLhyphen"/>ned the Lords wrath and much helped the kindling of those cruel flames, is <hi>Pride;</hi> as the Wise man saith plainly. <hi>Prov.</hi> 16. 18. <hi>Pride goeth before destruction, and an haughty spirit before a fall;</hi> this was the sin of <hi>Sodome,</hi> and this was the sin of <hi>London, even pride and fulness of bread,</hi> as you may read in <hi>Eze.</hi> 16. 47. <hi>As the Daughters of Jerusalem, so the daughters of London, went with stretched out necks, mincing as they go;</hi> little thinking that those that walk in pride, the Lord is able to abase; through pride of heart, men exalted themselves, and despised the cry of the poor, and turning aside from the cause of the fatherless and widdow; but hear what the Lord saith of proud per<g ref="char:EOLhyphen"/>sons,
+<pb n="9" facs="tcp:154412:5"/> or places, <hi>Jer.</hi> 50. 31. <hi>Behold, I am a<g ref="char:EOLhyphen"/>gainst thee, O thou most proud, saith the Lord God of Host, for the day is come that I will visit thee,</hi> and <hi>v.</hi> 32. <hi>And the most proud shall stumble and fall, and none shall raise him up; I will kindle a fire in his Ci<g ref="char:EOLhyphen"/>ties, and it shall devour all round about him.</hi> As the great God pronounced a woe against the pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de of <hi>Ephraim,</hi> so justly might he do against <hi>England</hi> as in <hi>Isa.</hi> 28. 1. <hi>Woe to the crown of pride, to the drunkards of Ephra<g ref="char:EOLhyphen"/>im,</hi> so woe to the crown of pride, and to the drunkards of <hi>England</hi> and <hi>London;</hi> oh there<g ref="char:EOLhyphen"/>fore be humble, and let not pride of heart deceive thée.</p>
+            <p n="5">5. <hi>Prophaning the Lords Holy day,</hi> and abusing and despising of holiness, is a grievous provoking sin, because of which, God will avenge himself, and that spéedily; and hath not <hi>England</hi> béen sadly guilty of this sin? <hi>without holiness, no man shall see the Lord.</hi>
+            </p>
+            <p>Oh how hath the Lord béen wroth with those, who have béen wilfull breakers and prophaners of his Holy day? the Lord, who is otherwise the God of mercy, com<g ref="char:EOLhyphen"/>mandeth <hi>Moses</hi> to stone to death that man, who out of a presumptuous minde, should go to gather stickson the Sabbathsons; the
+<pb n="10" facs="tcp:154412:6"/> fact but small, yet the sin the greater, be<g ref="char:EOLhyphen"/>cause, for so small an occasion, man should presume to break so great a Commande<g ref="char:EOLhyphen"/>ment: Many fearful examples of Gods Iudgement by terrible Fires, have in our daies béen shewed upon divers Towns, where the prophanation of the Lords day hath béen countenanced: <hi>Stratford upon Avon,</hi> was twice, upon the same day twelve month, being the Lords day, almost consum<g ref="char:EOLhyphen"/>ed with Fire. <hi>Teverton</hi> in <hi>Devon-shire,</hi> whose remembrance, as a good man said, made his heart to bléed; was warned by Godly Preachers, and was threatned that God would bring some eminent Iudgement upon them for their horrible prophanation of his day. Not long after, on the third of <hi>April,</hi> 1598. God, in less than half an hour, consumed with a suddain fearful Fire, the whole Town, except only the Church, the Court-house, and the Alms-house, and above fifty persons consumed with the flames, and above four hundred houses all in flames to<g ref="char:EOLhyphen"/>gether: and now since, in the year 1612. the whole Town was again fired and con<g ref="char:EOLhyphen"/>sumed, except thirty houses; surely they are blinde that cannot sée the finger of God. But to come home to our dreadful Calamity
+<pb n="11" facs="tcp:154412:6"/> in <hi>London,</hi> lately one of the famousest Cities in the World, which lamentable Fire began on the second of <hi>September,</hi> in the year 1666. being the Lords day in the morning, continuing burning till Wednes<g ref="char:EOLhyphen"/>day following, about five in the afternoon, almost to the utter subversion of it, where<g ref="char:EOLhyphen"/>in at least, within the Walls, and with<g ref="char:EOLhyphen"/>out, were totally destroyed, fourscore and ten Parishes, with Parish Churches, to the utter undoing of many thousand families, so that we may complain with the Prophet in the 2 <hi>Jer.</hi> 15. <hi>v. The young Lion roar<g ref="char:EOLhyphen"/>ed upon him and yelled, and they made his Laud wast, his City is burnt without Inha<g ref="char:EOLhyphen"/>bitant:</hi> Oh for this, ye Inhabitants of <hi>En<g ref="char:EOLhyphen"/>gland,</hi> gird you with Sackcloath, lament and houl, for the fierce anger of the Lord is not turned back from us; Oh our City is burnt with fire, as the Prophet <hi>Isaiah</hi> saies; but yet the Lord is to be praised for his Iudg<g ref="char:EOLhyphen"/>ments, as it is in <hi>Isa.</hi> 25. 1, 2, 3. <hi>Oh Lord! thou art my God, I will exalt thee, I will praise thy Name, for thou hast done won<g ref="char:EOLhyphen"/>derful things; thy counsels of old are faith<g ref="char:EOLhyphen"/>fulness and truth, for thou hast made of a City an heap, of a defenced City, a ruine, a palace of strangers to be no City.</hi> The Lord
+<pb n="12" facs="tcp:154412:7"/> hath done this, let the people be silent, and not murmur at the heavy hand of God, for it is the Lord <hi>that gives and takes away, blessed be his Name.</hi>
+            </p>
+            <p>Well now, <hi>Oh Earth, Earth, Earth, hear the Word of the Lord! Oh England,</hi> hear that thou maist live, fear Gods threat<g ref="char:EOLhyphen"/>nings, and take warning by your Neigh<g ref="char:EOLhyphen"/>bors chastisements, remember the Tower of <hi>Shiloe,</hi> those eightéen upon whom the Tower of <hi>Shiloe</hi> fell, and slew them; <hi>Think you those were greater sinners than others, or above all men that dwelt in Jerusalem? I tell you nay</hi> (saith Christ) <hi>but except you repent you shall all likewise perish: Luke</hi> 13. 4. Oh think not your selves secure, or that you are better than others, because the Lord hath spared your Towns, and Cities, and Habitations for you, and destroyed <hi>Lon<g ref="char:EOLhyphen"/>don;</hi> 'Tis for your sins as well as <hi>Londons</hi> sins, and you shall all smart in this Calami<g ref="char:EOLhyphen"/>ty; except you repeat and return to him, he hath more Arrowe in his Quiver, he can do by his great power, great works, and who can say to him, <hi>What doest thou?</hi> Oh then! what use will <hi>England</hi> make of this fore Iudgement? Hath not our Land cause to mourn? and if it were possible to wéep tears of blood, and cry mightily to the
+<pb n="13" facs="tcp:154412:7"/> Lord, that yet hée may turn away his Wrath, and receive us graciously. The Lord will hear the desire of the humble; <hi>Thou wilt prepare thy heart, and cause thy ear to hear, Psal.</hi> 10. 17. Come then and bée humbled, lye low at Gods Footstool, peradventure hée may hear, and pardon, and deliver; Let us go into his presence; and begge his Spirit of prayer, least his Wrath be poured out against us, because we call not upon his Name: Let us pore lesse upon worldly things and enjoyments, séeing the vanity of all things <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Sun, and the unstedfastnesse <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd muta<g ref="char:EOLhyphen"/>bility of them.</p>
+            <p>Fly from sin, that is the way to escape punishment; Kéep close to God, and hée will kéep close to you, leave not him, and he will not leave you; Let the thoughts of those dreadful flames never fly from your hearts, and let it cause a returning and re<g ref="char:EOLhyphen"/>lenting spirit that yet the Lord may come and be a defence to us, and appoint salva<g ref="char:EOLhyphen"/>tion, for Walls and Bulwarks, then shall we say: we have indéed a strong City, and Oh thou King of Glory open thou the ever<g ref="char:EOLhyphen"/>lasting doors of our souls and enter in, and then shall we be at peace with thée for ever, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div n="little" type="account">
+            <pb facs="tcp:154412:8"/>
+            <head>Here follows a little account of the great and lamentable Fire, which begun on the second of September, 1666.</head>
+            <p>
+               <hi>THis Fire began at one Mr.</hi> Farring<g ref="char:EOLhyphen"/>ton's <hi>a Baker in</hi> Pudding-Lane, <hi>be<g ref="char:EOLhyphen"/>twixt twelve and one of the clock in the morning, who being in his bed with his Son, hardly escaped the fury of those irre<g ref="char:EOLhyphen"/>sistable Flames; In which house, I as an eye-witnesse, beheld it burn above an hour before it caught hold of any other; then from thence, it caught hold on that side next the Bridge, and so burnt upwards and downwards in a very furious manner, in despight of all the Engines and Art of man that could be used: The winde blowing East, and sometimes North East very high, helped the kindling of it excéedingly. Some persons have béen taken, upon suspition of Treachery, who have béen without que<g ref="char:EOLhyphen"/>stion strictly examined, and will be brought to a Legal Trial.</hi>
+            </p>
+            <list>
+               <head>The Names of the Parishes that were burnt by this devouring fire are as followeth.</head>
+               <item>St. Alban woodstr.</item>
+               <item>St. Alhallows gr.</item>
+               <item>St. Alhallows bredst.</item>
+               <item>St. Alhall. hony-lane</item>
+               <pb facs="tcp:154412:8"/>
+               <item> St. Alhallows less.</item>
+               <item>S. Alhallows Lumbst.</item>
+               <item>St. Andrew Hubbard</item>
+               <item>S. Andrew Wardrope</item>
+               <item>St. Ann Black-fryers</item>
+               <item>St. Antholins Parish</item>
+               <item>S. Austins Parish.</item>
+               <item>S. Barthol. Exchange</item>
+               <item>S. Bennet Fynch</item>
+               <item>S. Ben. Grace-chur</item>
+               <item>St. Ben. Pauls-wha</item>
+               <item>St. Ben. Sherehog</item>
+               <item>S. Buttolph Billin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</item>
+               <item>Christ-Church</item>
+               <item>St. Christophers</item>
+               <item>S. Clement Eastcheap</item>
+               <item>S. Dionis Backchurch</item>
+               <item>St. Dunstans East</item>
+               <item>S. Edm. Lumbardst.</item>
+               <item>S. Faiths</item>
+               <item>S. Fosters.</item>
+               <item>S. Gabriel Fanchurch</item>
+               <item>S. Geo. Botolph-lane</item>
+               <item>S. Grego. by S. Pauls</item>
+               <item>S. James. Garlick-hil</item>
+               <item>S. John Baptist.</item>
+               <item>S. John Evangelist.</item>
+               <item>S. John Zachery.</item>
+               <item>St. Laurence Jewry</item>
+               <item>S. Lawrence Pountney</item>
+               <item>S. Leonard Eastcheap</item>
+               <item>S. Leonard Fosterlane.</item>
+               <item>S. Margaret Lothbury.</item>
+               <item>S. Margaret Moses</item>
+               <item>S. Margar. New-Fishstre,</item>
+               <item>S. Margaret Pattons</item>
+               <item>S. Mary Abchurch</item>
+               <item>S. Mary Aldermanbury</item>
+               <item>S. Mary Aldermary</item>
+               <item>St. Mary le Bow</item>
+               <item>St. Mary Bothaw</item>
+               <item>St. Mary Cole-church.</item>
+               <item>St. Mary-hill.</item>
+               <item>St. Mary Mounthaw</item>
+               <item>St. Mary Somerset</item>
+               <item>St. Mary staynings</item>
+               <item>St. Mary Woolchurch</item>
+               <item>St. Mary Woolnoth</item>
+               <item>St. Mart. Iremongerlan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>St. Martins Ludgate</item>
+               <item>St. Martins Orgars</item>
+               <item>St. Martins Vintrey</item>
+               <item>St. Martin Friday-stre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>St. Maudlins Milk-stre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>S. Maudlin old Fishstre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>S. Michael Bassishaw</item>
+               <pb facs="tcp:154412:9"/>
+               <item> St. Michael Cornhil</item>
+               <item>St. Michael crooked-lane</item>
+               <item>St. Michael Queenhithe</item>
+               <item>St. Michael Quern.</item>
+               <item>St. Michael Royal</item>
+               <item>St. Michael Woodstreet</item>
+               <item>S. Mildred Breadstreet</item>
+               <item>S. Mildred Poultrey</item>
+               <item>St. Nicholas Acons</item>
+               <item>S. Nicholas Cole▪abby</item>
+               <item>S. Nicholas Olaves</item>
+               <item>S. Olaves Jewry</item>
+               <item>St. Olaves Silver-street</item>
+               <item>S. Pancras Soperlane</item>
+               <item>S. Peters Cheapside</item>
+               <item>S. Peters Paulswharf</item>
+               <item>
+                  <hi>S.</hi> Stephens Walbrook</item>
+               <item>
+                  <hi>S.</hi> Swithins</item>
+               <item>
+                  <hi>S.</hi> Thomas Apostles</item>
+               <item>Trinity Parish.</item>
+            </list>
+            <list>
+               <head>Without the Walls.</head>
+               <item>St. Bridget.</item>
+               <item>Bridewel Precinct.</item>
+            </list>
+            <list>
+               <head>Part of those Parishes without the Walls.</head>
+               <item>St. Andrew Holborn</item>
+               <item>St. Buttolph Aldersgate</item>
+               <item>
+                  <hi>S.</hi> Dunstans in the West</item>
+               <item>St. Sepulchres Parish</item>
+            </list>
+            <list>
+               <head>Part of these Parishes fol<g ref="char:EOLhyphen"/>lowing, were burned <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ithin the Walls.</head>
+               <item>St. Alhallows Barking</item>
+               <item>St. Alhallows the wall</item>
+               <item>St. Magnus Parish</item>
+               <item>St. Peter Cornhill</item>
+               <item>St. Steph. Colemanstreet</item>
+            </list>
+            <p>The bounds of the Fire being from the Temple to the Tower in length, and from the Thames side to London Wall, in some places, in other places not so farre.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154412:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
